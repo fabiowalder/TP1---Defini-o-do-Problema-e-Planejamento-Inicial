@@ -1,4 +1,4 @@
-# Projeto de ChatBot para ODS 9 - Indústria, Inovação e Infraestrutura
+# Projeto de ChatBot - Indústria, Inovação e Infraestrutura
 
 ## 1. Repositório do Projeto no GitHub
 
