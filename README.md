@@ -1,19 +1,19 @@
 
 # TP1 - Definição do Problema e Planejamento Inicial
 
-## 🎯 Objetivo do Projeto
+##  Objetivo do Projeto
 
 O objetivo deste projeto é desenvolver um aplicativo de **delivery de comida** inspirado no iFood, permitindo que clientes façam pedidos de forma rápida, restaurantes recebam e gerenciem suas vendas, e entregadores realizem entregas com acompanhamento em tempo real.
 
 ---
 
-## 🛑 Problema a Ser Resolvido
+##  Problema a Ser Resolvido
 
 Atualmente, muitos usuários enfrentam dificuldade em encontrar restaurantes próximos e acompanhar seus pedidos em tempo real. Além disso, pequenos restaurantes não possuem uma plataforma acessível para gerenciar pedidos e entregas, o que limita seu alcance e competitividade.
 
 ---
 
-## 💡 Tipo de Solução
+##  Tipo de Solução
 
 A solução será um aplicativo **mobile multiplataforma (Android/iOS)**, com integração **web para restaurantes**, possibilitando:
 
@@ -23,7 +23,7 @@ A solução será um aplicativo **mobile multiplataforma (Android/iOS)**, com in
 
 ---
 
-## 📋 Requisitos do Projeto
+##  Requisitos do Projeto
 
 ### Requisitos Funcionais
 
@@ -47,11 +47,11 @@ A solução será um aplicativo **mobile multiplataforma (Android/iOS)**, com in
 
 A seguir, o diagrama UML representando os principais casos de uso da aplicação:
 
-(A<img width="1024" height="1536" alt="Diagrama ENG Software" src="https://github.com/user-attachments/assets/9b0043fa-5205-4f8c-bec7-cf027e5ca77d" />
+<img width="1024" height="1536" alt="Diagrama ENG Software" src="https://github.com/user-attachments/assets/9b0043fa-5205-4f8c-bec7-cf027e5ca77d" />
 
 ---
 
-## 📌 Organização no GitHub
+##  Organização no GitHub
 
 Este repositório será organizado da seguinte forma:
 
@@ -63,7 +63,7 @@ Este repositório será organizado da seguinte forma:
 
 ---
 
-## 📅 Próximos Passos
+##  Próximos Passos
 
 * Criar o repositório no GitHub.
 * Configurar o **GitHub Projects** com as colunas *Project Backlog* e *TODO*.
