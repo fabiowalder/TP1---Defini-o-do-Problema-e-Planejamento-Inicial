@@ -47,7 +47,8 @@ A solução será um aplicativo **mobile multiplataforma (Android/iOS)**, com in
 
 A seguir, o diagrama UML representando os principais casos de uso da aplicação:
 
-![Diagrama de Casos de Uso](A_UML_use_case_diagram_illustrates_the_interaction.png)
+![Diagrama de Casos de Uso](A<img width="1024" height="1536" alt="Diagrama ENG Software" src="https://github.com/user-attachments/assets/9b0043fa-5205-4f8c-bec7-cf027e5ca77d" />
+_UML_use_case_diagram_illustrates_the_interaction.png)
 
 ---
 
